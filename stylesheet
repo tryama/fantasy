@@ -1,0 +1,23 @@
+li {
+ list-style:none;
+}
+
+header {
+height: 40px;
+}
+
+.header-logo {
+padding:10px;
+}
+
+.copy-container {
+height:300px;
+}
+
+.menu-container {
+height:300px;
+}
+
+footer {
+height:40px;
+}
