@@ -14,10 +14,6 @@ padding:10px;
 height:300px;
 }
 
-.menu-container {
-height:300px;
-}
-
 footer {
 height:40px;
 }
